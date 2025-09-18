@@ -9,5 +9,4 @@ Author: Darson Lai
 十樓的位址
 
 ![一張含有 牆, 建築, 天花板, 室內 的圖片 AI
-產生的內容可能不正確。](media/media/image1.jpeg){width="5.768055555555556in"
-height="4.326388888888889in"}
+產生的內容可能不正確。](media/media/image1.jpeg)

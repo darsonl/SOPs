@@ -11,14 +11,12 @@ For請購5000以上的報價單
 可以參考之前的請款紀錄來找產品編號
 
 ![一張含有 文字, 螢幕擷取畫面, 軟體, 行 的圖片 AI
-產生的內容可能不正確。](media/media/image1.png){width="5.768055555555556in"
-height="1.7277777777777779in"}
+產生的內容可能不正確。](media/media/image1.png)
 
 列印前記得選訂購品單主管簽核，報表條文顯示最底端
 
 ![一張含有 文字, 螢幕擷取畫面, 軟體, 陳列 的圖片 AI
-產生的內容可能不正確。](media/media/image2.png){width="5.209027777777778in"
-height="3.7395833333333335in"}
+產生的內容可能不正確。](media/media/image2.png)
 
 請主管簽核准
 
@@ -36,30 +34,30 @@ For example:
 
 新的主機如下
 
-[物品名稱:]{.underline} [Acer 宏碁 i7十二核商用電腦]{.underline}
+*物品名稱:* *Acer 宏碁 i7十二核商用電腦*
 
-[廠牌: Acer 宏碁]{.underline}
+*廠牌: Acer 宏碁*
 
-[型號:]{.underline} [D22W5]{.underline}
+*型號:* *D22W5*
 
-[顏色:黑色]{.underline}
+*顏色:黑色*
 
-[擺放位置:台北威健12樓]{.underline}
+*擺放位置:台北威健12樓*
 
-[日期:114/06/04]{.underline}
+*日期:114/06/04*
 
  
 
 新的螢幕如下
 
-[物品名稱:]{.underline} [SAMSUNG彩色顯示器]{.underline}
+*物品名稱:* *SAMSUNG彩色顯示器*
 
-[廠牌: SAMSUNG]{.underline}
+*廠牌: SAMSUNG*
 
-[型號:]{.underline} [S24D362GAC]{.underline}
+*型號:* *S24D362GAC*
 
-[顏色:黑色]{.underline}
+*顏色:黑色*
 
-[擺放位置:台北威健12樓]{.underline}
+*擺放位置:台北威健12樓*
 
-[日期:114/06/04]{.underline}
+*日期:114/06/04*

@@ -10,8 +10,7 @@ Author: Darson Lai
 
 nueIP: 需要掛離職狀態(要注意離職日期)
 
-![](media/media/image1.png){width="5.760416666666667in"
-height="3.6354166666666665in"}
+![](media/media/image1.png)
 
 Email 信箱 由申請單指示操作
 
@@ -22,8 +21,7 @@ Email 信箱 由申請單指示操作
 正航的話需要設定禁用
 
 ![一張含有 文字, 螢幕擷取畫面, 陳列, 數字 的圖片 AI
-產生的內容可能不正確。](media/media/image2.png){width="5.3639129483814525in"
-height="4.749406167979003in"}
+產生的內容可能不正確。](media/media/image2.png)
 
 **裁IT人員SOP:**
 

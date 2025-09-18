@@ -7,16 +7,13 @@ Author: Darson Lai
 我們公司是用以下第一個方式
 
 ![一張含有 文字, 螢幕擷取畫面, 軟體, 電腦圖示 的圖片 AI
-產生的內容可能不正確。](media/media/image1.png){width="5.634712379702537in"
-height="7.061617454068242in"}
+產生的內容可能不正確。](media/media/image1.png)
 
 ![一張含有 文字, 軟體, 數字, 字型 的圖片 AI
-產生的內容可能不正確。](media/media/image2.png){width="5.768055555555556in"
-height="2.1638888888888888in"}
+產生的內容可能不正確。](media/media/image2.png)
 
 ![一張含有 文字, 行, 數字, 字型 的圖片 AI
-產生的內容可能不正確。](media/media/image3.png){width="5.768055555555556in"
-height="0.8354166666666667in"}
+產生的內容可能不正確。](media/media/image3.png)
 
 每一區的員工都套用不同的節假日設定
 
@@ -28,64 +25,55 @@ height="0.8354166666666667in"}
 
 **（此方式適用於公司所在地區皆位於本次停止上班上課的區域）**
 
-**[適用對象：固定上班時間+颱風給全薪]{.underline}**\
+***適用對象：固定上班時間+颱風給全薪***  
 1.
-請至[ 人資/假期管理/節假日規則設定](https://cloud.nueip.com/holidays_management)，編輯［您目前有在使用的日曆表］\
-2. 點選『節假日新增』按鈕，新增一個特殊日\
-3. 勾選當天是『全天休假』\
-4. 新增完成後，請務必下滑到最下方點選儲存。\
+請至[ 人資/假期管理/節假日規則設定](https://cloud.nueip.com/holidays_management)，編輯［您目前有在使用的日曆表］  
+2. 點選『節假日新增』按鈕，新增一個特殊日  
+3. 勾選當天是『全天休假』  
+4. 新增完成後，請務必下滑到最下方點選儲存。  
 ![一張含有 文字, 軟體, 電腦圖示, 網頁 的圖片 AI
-產生的內容可能不正確。](media/media/image4.png){width="5.768055555555556in"
-height="2.3722222222222222in"}
+產生的內容可能不正確。](media/media/image4.png)
 
 ![一張含有 文字, 軟體, 電腦圖示, 數字 的圖片 AI
-產生的內容可能不正確。](media/media/image5.png){width="5.768055555555556in"
-height="2.4229166666666666in"}
+產生的內容可能不正確。](media/media/image5.png)
 
 ![一張含有 文字, 螢幕擷取畫面, 數字, 軟體 的圖片 AI
-產生的內容可能不正確。](media/media/image6.png){width="5.768055555555556in"
-height="3.553472222222222in"}
+產生的內容可能不正確。](media/media/image6.png)
 
 **第二個方式：新增一個假別，由員工申請或是人資批次匯入請假**
 
 **（此方式適用於公司所在地區有分區，有些辦公地點位於本次停止上班上課的區域，有些辦公地點仍正常上下班）**
 
-**[適用對象：固定上班時間或排班規則都可以+颱風給全薪或不給薪都可以]{.underline}（彈性最大）**
+***適用對象：固定上班時間或排班規則都可以+颱風給全薪或不給薪都可以*（彈性最大）**
 
 1\.
-請至 [人資/假期管理/假別設定](https://cloud.nueip.com/leave_resource_setting)，新增一個假別\
-2. 給薪方式選擇第四種：不給薪/ 半薪/ 自訂，於發生時才給假。\
-3. 依公司規定設定扣款％數。(如需扣款請填100%，無須扣款填0%)\
-4. 如果希望開放時數後，員工才能使用這個假別，則選擇『有時數限制』。\
+請至 [人資/假期管理/假別設定](https://cloud.nueip.com/leave_resource_setting)，新增一個假別  
+2. 給薪方式選擇第四種：不給薪/ 半薪/ 自訂，於發生時才給假。  
+3. 依公司規定設定扣款％數。(如需扣款請填100%，無須扣款填0%)  
+4. 如果希望開放時數後，員工才能使用這個假別，則選擇『有時數限制』。  
 5.
-完成假別設定後，請到 [人資／假期管理／休假規則設定](https://cloud.nueip.com/leave_rule_setting)，選擇員工套用的休假規則，將此颱風假別從『可選假別』選入『已選假別』\
+完成假別設定後，請到 [人資／假期管理／休假規則設定](https://cloud.nueip.com/leave_rule_setting)，選擇員工套用的休假規則，將此颱風假別從『可選假別』選入『已選假別』  
 6.
 最後需再到 [可休假匯入作業](https://cloud.nueip.com/timeoff_import) 匯入時數，員工才能自己申請颱風假，或是您才能夠批次幫員工匯入颱風假
 
 ![一張含有 螢幕擷取畫面, 文字, 軟體, 電腦圖示 的圖片 AI
-產生的內容可能不正確。](media/media/image7.png){width="5.768055555555556in"
-height="2.01875in"}
+產生的內容可能不正確。](media/media/image7.png)
 
 ![一張含有 文字, 行, 字型, 數字 的圖片 AI
-產生的內容可能不正確。](media/media/image8.png){width="5.768055555555556in"
-height="1.5708333333333333in"}
+產生的內容可能不正確。](media/media/image8.png)
 
 ![一張含有 文字, 字型, 行, 螢幕擷取畫面 的圖片 AI
-產生的內容可能不正確。](media/media/image9.png){width="5.768055555555556in"
-height="0.8833333333333333in"}
+產生的內容可能不正確。](media/media/image9.png)
 
  
 
 ![一張含有 文字, 螢幕擷取畫面, 數字, 軟體 的圖片 AI
-產生的內容可能不正確。](media/media/image10.png){width="5.768055555555556in"
-height="3.327777777777778in"}
+產生的內容可能不正確。](media/media/image10.png)
 
 ![一張含有 文字, 螢幕擷取畫面, 數字, 軟體 的圖片 AI
-產生的內容可能不正確。](media/media/image11.png){width="5.768055555555556in"
-height="2.9368055555555554in"}
+產生的內容可能不正確。](media/media/image11.png)
 
 註：如人資要幫公司員工直接匯入颱風假，上述第６步驟完成後，請至 [個人／考勤管理／請假作業](https://cloud.nueip.com/leave_application/personal_leave_application_user) 進行 [批次匯入](https://file.nueip.com/user_manual/tc/40_leave_batch_import_guide.pdf)(此為參考文件，請假批次匯入的操作步驟同補休批次匯入)
 
 ![一張含有 文字, 字型, 數字, 行 的圖片 AI
-產生的內容可能不正確。](media/media/image12.png){width="5.768055555555556in"
-height="2.152083333333333in"}
+產生的內容可能不正確。](media/media/image12.png)

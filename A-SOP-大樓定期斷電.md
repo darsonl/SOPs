@@ -66,10 +66,9 @@ PC NB 插頭拔掉
 
 701 server :檢查服務
 
-![](media/media/image1.png){width="2.2708333333333335in"
-height="0.6979166666666666in"}
+![](media/media/image1.png)
 
-正航: 檢查 server "服務"內容
+正航: 檢查 server “服務”內容
 
 CHI T-series server
 

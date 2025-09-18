@@ -13,5 +13,4 @@ Author: Darson Lai
 重設後再重新載入卡片資料
 
 ![一張含有 文字, 螢幕擷取畫面, 字型, 軟體 的圖片 AI
-產生的內容可能不正確。](media/media/image1.jpeg){width="4.480555555555555in"
-height="9.693055555555556in"}
+產生的內容可能不正確。](media/media/image1.jpeg)

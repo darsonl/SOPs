@@ -5,11 +5,9 @@ Date: 2025/8/19
 Author: Darson Lai
 
 問題的載圖如下: ![一張含有 文字, 螢幕擷取畫面, 字型, 數字 的圖片 AI
-產生的內容可能不正確。](media/media/image1.png){width="5.768055555555556in"
-height="1.163888888888889in"}
+產生的內容可能不正確。](media/media/image1.png)
 
-![](media/media/image2.png){width="5.768055555555556in"
-height="1.9027777777777777in"}
+![](media/media/image2.png)
 
 解決方法如下
 
@@ -19,9 +17,7 @@ height="1.9027777777777777in"}
 解決辦法 可以勾選 沖款條件區間中的 {全部部門} 選項 (如圖一中紅框處)
 
 ![一張含有 文字, 數字, 字型, 行 的圖片 AI
-產生的內容可能不正確。](media/media/image3.png){width="5.768055555555556in"
-height="1.6340277777777779in"}
+產生的內容可能不正確。](media/media/image3.png)
 
 ![一張含有 文字, 行, 數字, 字型 的圖片 AI
-產生的內容可能不正確。](media/media/image4.png){width="5.768055555555556in"
-height="1.801388888888889in"}
+產生的內容可能不正確。](media/media/image4.png)

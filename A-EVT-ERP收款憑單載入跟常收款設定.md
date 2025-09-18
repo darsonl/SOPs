@@ -7,8 +7,7 @@ Author: Darson Lai
 遇到以下狀況時
 
 ![一張含有 文字, 螢幕擷取畫面, 數字, 軟體 的圖片 AI
-產生的內容可能不正確。](media/media/image1.png){width="5.768055555555556in"
-height="4.092361111111111in"}
+產生的內容可能不正確。](media/media/image1.png)
 
 載入帳款需要勾選【全部幣別】跟【全部部門】
 
@@ -17,5 +16,4 @@ height="4.092361111111111in"}
 然後其他的正航視窗都需要關掉才有辦法按確定
 
 ![一張含有 文字, 螢幕擷取畫面, 軟體, 電腦圖示 的圖片 AI
-產生的內容可能不正確。](media/media/image2.png){width="5.768055555555556in"
-height="4.425in"}
+產生的內容可能不正確。](media/media/image2.png)

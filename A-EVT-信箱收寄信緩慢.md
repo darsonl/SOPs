@@ -13,22 +13,19 @@ Author: Darson Lai
 然後找outlook的 .ost檔
 
 ![一張含有 文字, 螢幕擷取畫面, 軟體, 數字 的圖片 AI
-產生的內容可能不正確。](media/media/image1.png){width="5.768055555555556in"
-height="4.488888888888889in"}
+產生的內容可能不正確。](media/media/image1.png)
 
 ![一張含有 文字, 電子產品, 螢幕擷取畫面, 陳列 的圖片 AI
-產生的內容可能不正確。](media/media/image2.png){width="5.768055555555556in"
-height="4.418055555555555in"}
+產生的內容可能不正確。](media/media/image2.png)
 
 確認一下所在的槽有足夠的空間，因為會重新下載整個信箱
 
 以下這兩個先勾起來
 
 ![一張含有 文字, 螢幕擷取畫面, 數字, 軟體 的圖片 AI
-產生的內容可能不正確。](media/media/image3.png){width="3.6041666666666665in"
-height="6.145833333333333in"}
+產生的內容可能不正確。](media/media/image3.png)
 
-通常會在 C:\\users\\user\\AppData\\Local\\Microsoft\\outlook
+通常會在 C:\users\user\AppData\Local\Microsoft\outlook
 
 先關outlook，然後在ost檔後面打.bkup
 

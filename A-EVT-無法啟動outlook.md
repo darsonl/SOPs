@@ -7,8 +7,7 @@ Author: Darson Lai
 讀取.ost檔時發生的錯誤
 
 ![一張含有 文字, 螢幕擷取畫面, 字型 的圖片 AI
-產生的內容可能不正確。](media/media/image1.png){width="5.030621172353456in"
-height="1.8435192475940507in"}
+產生的內容可能不正確。](media/media/image1.png)
 
 跑指令(cmd)開啟outlook
 

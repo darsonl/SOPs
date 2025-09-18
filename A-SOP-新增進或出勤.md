@@ -9,9 +9,7 @@ Author: Darson Lai
 先得到經理(Rachel)的許可後再進nueIP新增打卡紀錄
 
 ![一張含有 文字, 螢幕擷取畫面, 軟體, 電腦圖示 的圖片 AI
-產生的內容可能不正確。](media/media/image1.png){width="5.768055555555556in"
-height="3.4027777777777777in"}
+產生的內容可能不正確。](media/media/image1.png)
 
 ![一張含有 文字, 螢幕擷取畫面, 軟體, 數字 的圖片 AI
-產生的內容可能不正確。](media/media/image2.png){width="5.768055555555556in"
-height="3.0701388888888888in"}
+產生的內容可能不正確。](media/media/image2.png)
