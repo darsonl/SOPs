@@ -1,0 +1,7 @@
+This is for SMB access
+Try these commands in powershell:
+1) Make sure the password is set to never expire.
+Set-LocalUser -Name "username" -PasswordNeverExpires $true
+
+2) Sometimes password hashes don't sync properly. 
+Set-LocalUser -Name "vicky" -Password (ConvertTo-SecureString "NewPassword123!" -AsPlainText -Force)
