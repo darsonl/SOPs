@@ -5,3 +5,7 @@ Set-LocalUser -Name "username" -PasswordNeverExpires $true
 
 2) Sometimes password hashes don't sync properly. 
 Set-LocalUser -Name "vicky" -Password (ConvertTo-SecureString "NewPassword123!" -AsPlainText -Force)
+
+3) If credentials are saved or cached:
+Reset "Workstation" under services.
+Go to "Credentials Manager" and delete the corresponding entry.
